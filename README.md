@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=서&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Yehee%20Choi%20Profile&descAlignY=51&descAlign=62&fontColor=ffffff&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Yehee Choi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20%20Profile&descAlignY=51&descAlign=62&fontColor=ffffff&descColor=ffffff)
 
 <h3 align="center">👋 Hi there! I'm an Android Developer</h3>
 <p align="center">
