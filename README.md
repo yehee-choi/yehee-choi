@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Your%20Name&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yehee%20Choi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub!&descAlignY=51&descAlign=62)
 
 <h3 align="center">👋 Hi there! I'm a Developer</h3>
 <p align="center">
   간단한 자기소개를 여기에 작성하세요!<br>
-  예: 백엔드 개발자를 꿈꾸는 학생입니다 🌱
+  안드로이드 개발자를 꿈꾸고 있습니다. 🌱
 </p>
 
 <br>
