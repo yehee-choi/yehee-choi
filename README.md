@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Yehee Choi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20%20Profile&descAlignY=51&descAlign=62&fontColor=ffffff&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Yehee%20Choi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20%20Profile&descAlignY=51&descAlign=62&fontColor=ffffff&descColor=ffffff)
 
 <h3 align="center">👋 Hi there! I'm an Android Developer</h3>
+
 <p align="center">
   사용자 경험을 중시하는 안드로이드 개발자입니다 ✨<br>
 </p>
@@ -29,10 +30,10 @@
 
 <h3 align="center">📫 Contact Me 📫</h3>
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://velog.io/@yourname"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-  <a href="https://www.instagram.com/yourname"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.notion.so/yourpage"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+  <a href="mailto:jamong909@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+  <!-- <a href="https://velog.io/@yourname"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> -->
+  <a href="https://www.instagram.com/yehee915"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <!-- <a href="https://www.notion.so/yourpage"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a> -->
 </p>
 
 <br>
@@ -43,7 +44,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehee-choi&layout=compact&theme=transparent" />
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=footer)
