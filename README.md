@@ -39,11 +39,11 @@
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yehee-choi&show_icons=true&theme=transparent" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" />
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=footer)
