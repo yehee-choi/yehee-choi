@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Retrofit-4285F4?style=flat&logo=Retrofit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OkHttp-00D084?style=flat&logo=OkHttp&logoColor=white"/>
 </p>
 
 <br>
